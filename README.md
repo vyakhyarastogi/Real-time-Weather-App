@@ -18,7 +18,7 @@ Built with **HTML, CSS, and JavaScript**, it demonstrates **real-world API consu
 - 🌦️ Shows **temperature, condition, humidity**, and more
 - ⚠️ **Handles errors** like wrong city names or API failures
 - 💡 Clean and **responsive UI** with a modern layout
-- 🌐 Supports **metric/imperial** temperature units *(optional)*
+
 
 ---
 
