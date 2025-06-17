@@ -30,31 +30,37 @@ h1 {
 
 .search-box {
 
-    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    /* space between input and button */
+    margin-top: 20px;
     /* margin-left: 65px; */
 }
 
-input {
-    /* margin: 0 auto; */
-
-    padding: 11px 50px;
-    border-radius: 8px 0px 0px 8px;
+.search-box input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
     font-size: 16px;
-    text-decoration: none;
+    width: 200px;
     outline: 0;
-    text-align: center;
 }
 
-button {
-    padding: 15px 30px;
-    background-color: #4CAF50;
-    color: white;
+.search-box button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    /* green */
     border: none;
-    border-radius: 0px 10px 9px 0px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
     cursor: pointer;
+
 }
 
-button:hover {
+.search-box button:hover {
     background: #45a049;
 }
 
