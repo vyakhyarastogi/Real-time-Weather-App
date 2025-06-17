@@ -59,7 +59,7 @@ Replace YOUR_API_KEY in script.js with your actual API key.
 ## 📬 Contact Me
 
 - 📧 Email: [vyakhyarastogi975@gmail.com](mailto:vyakhyarastogi975@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/vyakhya-rastogi-283a78246)
+- 💼 LinkedIn: [linkedin.com/in/vyakhya-rastogi-283a78246](https://linkedin.com/in/vyakhya-rastogi-283a78246)
 
 
 
